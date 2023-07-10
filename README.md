@@ -1,2 +1,2 @@
-# Customer-Segemntation
+# Customer-Segmentation
 Customer Segmentation using Pyspark
